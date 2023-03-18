@@ -1,0 +1,25 @@
+{
+  "name": "shutdown-device",
+  "version": "1.0.0",
+  "description": "Control the power state of a device from Node.js, including shutting down, restarting, and sleeping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnavthorat78/shutdown-device.git"
+  },
+  "keywords": [
+    "shutdown",
+    "restart",
+    "sleep",
+    "power"
+  ],
+  "author": "Arnav Thorat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnavthorat78/shutdown-device/issues"
+  },
+  "homepage": "https://github.com/arnavthorat78/shutdown-device#readme"
+}
